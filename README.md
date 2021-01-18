@@ -7,5 +7,5 @@ Example of usage (Docker needs to be installed):
 - See example of communication with browsermobproxy docker container [RemoteBrowserMobProxyFunctionalTests.cs](./RemoteBrowserMobProxy.Tests/RemoteBrowserMobProxyFunctionalTests.cs)
 
 [![NuGet](https://www.nuget.org/Content/gallery/img/logo-header-94x29.png)](https://www.nuget.org/packages/RemoteBrowserMobProxy/)
-[![Build Status](https://ci.appveyor.com/api/projects/status/ur3s4k4d80i0nphb/branch/master?svg=true)](https://ci.appveyor.com/project/tmulkern/remotebrowsermobproxy/branch/master)
+[![Build Status](https://ci.appveyor.com/api/projects/status/fridbu849f0j6oen?svg=true)](https://ci.appveyor.com/project/mcopjan/remotebrowsermobproxy)
 [![codecov](https://codecov.io/gh/tmulkern/RemoteBrowserMobProxy/branch/master/graph/badge.svg)](https://codecov.io/gh/tmulkern/RemoteBrowserMobProxy)
