@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>RemoteBrowserMobProxy</id>
+    <id>RemoteBrowserMobProxyNetStandard</id>
     <version>$version$</version>
-    <title>RemoteBrowserMobProxy</title>
-    <authors>RemoteBrowserMobProxy</authors>
-    <owners>$author$</owners>
-    <projectUrl>https://github.com/tmulkern/RemoteBrowserMobProxy</projectUrl>
-    <description>RemoteBrowserMobProxy</description>
+    <title>RemoteBrowserMobProxyNetStandard</title>
+    <authors>Martin Copjan</authors>
+    <owners>Martin Copjan</owners>
+    <projectUrl>https://github.com/mcopjan/RemoteBrowserMobProxy</projectUrl>
+    <description>NetStandard library for BrowserMobProxy API</description>
     <tags>BrowserMob Proxy</tags>
   </metadata>
 </package>
